@@ -1,0 +1,70 @@
+HTML tags used:
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta>
+<title>
+<link>
+<body>
+<div>
+<section>
+<img>
+<svg>
+<a>
+<path>
+<p>
+<li>
+<ul>
+<h1>
+<h2>
+--------------------------------------------------------------
+
+href
+rel
+charset
+class
+src
+alt
+viewBox
+
+----------------------------------------------------------------
+
+CSS Tags used:
+
+box-sizing - defines how the width and height of an element are calculated
+:before - inserts something before the content of each selected element
+:after - insert something after the content
+:last-child - selector matches every element that is the last child of its parent
+font-family
+font-size
+font-weight - sets how thick or thin characters in text should be displayed
+height
+width
+line-height - specifies the height of a line
+background color
+
+max-width - defines the maximum width of an element. If the content is larger than the maximum width, it will automatically change the height of the element.If the content is smaller than the maximum width, the max-width property has no effect
+
+align-items - Vertically aligns the flex items when the items do not use all available space on the cross-axis
+fill - color of a SVG shape
+display - specifies the display behavior (the type of rendering box) of an element
+flex - flex container becomes flexible by setting the display property to flex
+flex-wrap - Specifies whether the flex items should wrap or not, if there is not enough room for them on one flex line
+flex-direction - Specifies the direction of the flexible items inside a flex container
+
+overflow - controls what happens to content that is too big to fit into an area, specifies whether to clip the content or to add scrollbars when the content of an element is too big to fit in the specified area
+
+text-decoration - specifies the decoration added to text
+margin - create space around elements, outside of any defined borders.
+margin-right
+margin-bottom
+padding
+padding-bottom
+justify-content
+opacity
+box-shadow
+grid-template-columns
+grid-gap
+border-bottom
+

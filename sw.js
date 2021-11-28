@@ -9,7 +9,6 @@ async function preCache(){
     const cache = await caches.open(CACHE_NAME)
     return cache.addAll(STATIC_ASSETS)
 }
-
 self.addEventListener('install', event => {
     event.waitUntil(preCache())
 })

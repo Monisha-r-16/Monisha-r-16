@@ -181,7 +181,11 @@
         </div> <!-- end skills-container -->
       </div>
     </section>
-
+    <script>
+      if(navigator.serviceWorker){
+          navigator.serviceWorker.register('sw.js')
+      }
+  </script> 
   </div>
 </body>
 </html>

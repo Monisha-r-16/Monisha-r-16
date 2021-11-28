@@ -1,6 +1,6 @@
 const CACHE_NAME ="static_cache"
 const STATIC_ASSETS = [
-    '/image/imaage.jpg',
+    '/img/photo.jpg/',
     '/index.html',
     '/style.css'
 ]

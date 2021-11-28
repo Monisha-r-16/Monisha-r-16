@@ -1,7 +1,7 @@
 const STATIC_ASSETS = [
-    '/about.html',
+    '/image/imaage.jpg',
     '/index.html',
-    '/paper.css'
+    '/style.css'
 ]
 
 async function preCache(){
